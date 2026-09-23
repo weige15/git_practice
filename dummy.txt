@@ -3,4 +3,4 @@ uwu
 
 go crazy go stupid
 
-hello from main
+hello from dev
